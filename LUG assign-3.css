@@ -1,0 +1,51 @@
+.firstblock{
+    background-color: gold;
+    height: 60px;
+    width: 500px;
+    padding-left: 210px;
+    padding-top: 40px;
+    margin-left: 425px;
+}
+.secblock{
+    background-color: rgba(197, 193, 193, 0.565);
+    height: 60px;
+    width: 500px;
+    padding: 105px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-left: 425px;
+}
+.thirdblock{
+    background-color: rgba(222, 141, 20, 0.643);
+    height: 300px;
+    width: 710px;
+    margin-left: 425px;
+}
+.Innerblock{
+    background-color:blue;
+    height: 100px;
+    width: 100px;
+    margin-left: 60px;
+    margin-top: 50px;
+    border-radius: 20px;
+    display:inline-block;
+}
+.Mybutton{
+  background-color: rgb(18, 154, 207);
+  color: white;
+    height: 50px;
+    width: 250px;
+    margin-left:120px;
+    margin-top: 30px;
+    padding-left: 165px;
+    padding-top: 30px;
+}
+.Endblock{
+    background-color: gold;
+    height: 90px;
+    width:420px;
+    margin-left: 425px; 
+    padding-left: 290px;
+    padding-top: 15px;
+
+}
