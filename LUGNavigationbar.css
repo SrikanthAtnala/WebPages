@@ -1,0 +1,12 @@
+.bikesdiv{
+    background-color: rgba(206, 29, 29, 0.721);
+    height: 80px;
+    width: 1500px;
+    padding-left: 50px;
+    padding-bottom: 10px;
+    color: white;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 40px;
+    border-style:dotted;    
+}
